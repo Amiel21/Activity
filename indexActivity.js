@@ -25,6 +25,7 @@ let homeAddress = {
 
 console.log(firstName, lastName);
 console.log(hobbies);
+console.log(age);
 console.log(homeAddress);
 
 
